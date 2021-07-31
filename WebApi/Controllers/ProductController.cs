@@ -114,58 +114,58 @@ namespace WebApi.Controllers
 
 
         /* To Upload Photos*/
-        //[Route("api/Poducts/SaveFile")]
-        //public string SaveFile()
-        //{
-        //    try
-        //    {
-        //        var httpRequest = HttpContext.Current.Request;
-        //        var postedFile = httpRequest.Files[0];
-        //        string Image = postedFile.FileName;
-        //        var physicalPath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + Image);
+        [Route("api/Poducts/SaveFile")]
+        public string SaveFile()
+        {
+            try
+            {
+                var httpRequest = HttpContext.Current.Request;
+                var postedFile = httpRequest.Files[0];
+                string Image = postedFile.FileName;
+                var physicalPath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + Image);
 
-        //        postedFile.SaveAs(physicalPath);
+                postedFile.SaveAs(physicalPath);
 
-        //        return Image;
-        //    }
-        //    catch (Exception)
-        //    {
+                return Image;
+            }
+            catch (Exception)
+            {
 
-        //        return "anonymous.jpg";
-        //    }
-        //}
+                return "anonymous.jpg";
+            }
+        }
 
         //[HttpGet]
-        //[Route("downloadImage")]
-        //public HttpResponseMessage DownloadImageFile(int id)
-        //{
-        //    var p = productAppService.GetProduct(id);
-        //    try
-        //    {
-        //        //string downloadPath = HttpContext.Current.Server.MapPath("~/uploads") + "/test.jpg";
-        //        var localFilePath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + p.Image);
+        [Route("downloadImage")]
+        public HttpResponseMessage DownloadImageFile(int id)
+        {
+            var p = productAppService.GetProduct(id);
+            try
+            {
+                //string downloadPath = HttpContext.Current.Server.MapPath("~/uploads") + "/test.jpg";
+                var localFilePath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + p.Image);
 
 
 
-        //        HttpResponseMessage response = new HttpResponseMessage(HttpStatusCode.OK);
-        //        response.Content = new StreamContent(new FileStream(localFilePath, FileMode.Open, FileAccess.Read));
-        //        response.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
+                HttpResponseMessage response = new HttpResponseMessage(HttpStatusCode.OK);
+                response.Content = new StreamContent(new FileStream(localFilePath, FileMode.Open, FileAccess.Read));
+                response.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
 
-        //        string contentDisposition = string.Concat("attachment; filename=", p.Image);
-        //        response.Content.Headers.ContentDisposition =
-        //                      ContentDispositionHeaderValue.Parse(contentDisposition);
-        //        response.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
-        //        response.Content.Headers.ContentDisposition.FileName = p.Image;
+               string contentDisposition = string.Concat("attachment; filename=", p.Image);
+                response.Content.Headers.ContentDisposition =
+                              ContentDispositionHeaderValue.Parse(contentDisposition);
+                response.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
+                response.Content.Headers.ContentDisposition.FileName = p.Image;
 
-        //        return response;
-        //    }
-        //    catch
-        //    {
-        //        HttpResponseMessage response = new HttpResponseMessage();
-        //        response.StatusCode = HttpStatusCode.InternalServerError;
-        //        return response;
-        //    }
-        //}
+                return response;
+            }
+          catch
+            {
+                HttpResponseMessage response = new HttpResponseMessage();
+               response.StatusCode = HttpStatusCode.InternalServerError;
+               return response;
+           }
+        }
 
 
         //[HttpPost]
@@ -200,7 +200,7 @@ namespace WebApi.Controllers
         [HttpPut]
         //99898
         [Route("EditProduct")]
-       // [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public ProductViewModel EditProduct(int id, ProductViewModel productViewModel)
         {
 
