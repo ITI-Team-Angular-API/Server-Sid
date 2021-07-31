@@ -1,0 +1,236 @@
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\WebApi.dll.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\WebApi.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\WebApi.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\WebApi.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csc.exe
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csc.exe.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csc.rsp
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csi.exe
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csi.exe.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\csi.rsp
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Console.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\vbc.exe
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\vbc.rsp
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\AutoMapper.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\BL.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\DAL.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\EntityFramework.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Owin.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Swashbuckle.Core.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Cors.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\WebActivatorEx.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\BL.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\DAL.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\DAL.dll.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\AutoMapper.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\EntityFramework.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\obj\Debug\WebApi.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\WebApi\obj\Debug\WebApi.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\WebApi.dll.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\WebApi.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\WebApi.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\WebApi.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csc.exe
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csi.exe
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\AutoMapper.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\BL.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\DAL.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\EntityFramework.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Owin.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Swashbuckle.Core.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Cors.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\WebActivatorEx.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\BL.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\DAL.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\DAL.dll.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\AutoMapper.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\EntityFramework.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\obj\Debug\WebApi.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\WebApi\obj\Debug\WebApi.pdb

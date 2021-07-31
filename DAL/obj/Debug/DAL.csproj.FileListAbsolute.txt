@@ -1,0 +1,32 @@
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\DAL.dll.config
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\DAL.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\DAL.pdb
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\EntityFramework.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\EntityFramework.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\obj\Debug\DAL.dll
+C:\Users\MOhamed SAyed\source\repos\New folder (2)\New folder\APIAngular\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\DAL.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\obj\Debug\DAL.dll
+C:\Users\User\Downloads\New folder\APIAngular\APIAngular\DAL\obj\Debug\DAL.pdb
