@@ -9,6 +9,7 @@ using System.Web;
 using System.Web.Http;
 using BL.AppServices;
 using BL.ViewModel;
+using DAL;
 
 namespace WebApi.Controllers
 {
@@ -16,6 +17,7 @@ namespace WebApi.Controllers
     [RoutePrefix("api/Product")]
     public class ProductController : ApiController
     {
+        private ApplicationDBContext db = new ApplicationDBContext();
         CategoryAppService categoryAppService = new CategoryAppService();
         ProductAppService productAppService = new ProductAppService();
 
@@ -28,11 +30,22 @@ namespace WebApi.Controllers
 
         // GET: Product
         [HttpGet]
-        [Route("ShowAllProducts")]
-        public IHttpActionResult Get()
+       [Route("ShowAllProducts")]
+        public List<ProductViewModel> Get()
         {
             List<ProductViewModel> productViewModels = productAppService.GetAllProducts();
-            return Ok(productViewModels);
+            return productViewModels;
+        }
+
+        // GET: api/Product/5
+        public IHttpActionResult GetProduct(int id)
+        {
+            Product product = db.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return Ok(product);
         }
 
         //public IHttpActionResult GetProduct(int id)
@@ -46,23 +59,25 @@ namespace WebApi.Controllers
         //}
 
 
-        //[HttpPost]
-        //[Route("CreateProduct")]
-        //public IHttpActionResult Post(ProductViewModel productViewModel)
-        //{
-        //    if (string.IsNullOrEmpty(productViewModel.Id.ToString()) && string.IsNullOrEmpty(productViewModel.Name))
-        //        return new ProductViewModel
-        //        {
-        //            Id = 0,
-        //            Name = "",
-        //        };
-        //    productAppService.SaveNewProduct(productViewModel);
-        //    return productViewModel;
-        //}
+        [HttpPost]
+       [Authorize(Roles = "Admin")]
+        [Route("PostProduct")]
+        public ProductViewModel Post(ProductViewModel productViewModel)
+        {
+            if (string.IsNullOrEmpty(productViewModel.Id.ToString()) && string.IsNullOrEmpty(productViewModel.Name))
+                return new ProductViewModel
+                {
+                    Id = 0,
+                    Name = "",
+                };
+            productAppService.SaveNewProduct(productViewModel);
+            return productViewModel;
+        }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         [Route("CreateProduct")]
-
+        /****The Way to Create product With IMAGE*****/
         public IHttpActionResult Create(ProductViewModel productViewModel)
         {
             var categories = categoryAppService.GetAllCategories();
@@ -96,6 +111,8 @@ namespace WebApi.Controllers
         }
 
 
+
+
         /* To Upload Photos*/
         //[Route("api/Poducts/SaveFile")]
         //public string SaveFile()
@@ -118,37 +135,37 @@ namespace WebApi.Controllers
         //    }
         //}
 
-        [HttpGet]
-        [Route("downloadImage")]
-        public HttpResponseMessage DownloadImageFile(int id)
-        {
-            var p = productAppService.GetProduct(id);
-            try
-            {
-                //string downloadPath = HttpContext.Current.Server.MapPath("~/uploads") + "/test.jpg";
-                var localFilePath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + p.Image);
+        //[HttpGet]
+        //[Route("downloadImage")]
+        //public HttpResponseMessage DownloadImageFile(int id)
+        //{
+        //    var p = productAppService.GetProduct(id);
+        //    try
+        //    {
+        //        //string downloadPath = HttpContext.Current.Server.MapPath("~/uploads") + "/test.jpg";
+        //        var localFilePath = HttpContext.Current.Server.MapPath("~/Content/Resources/images/" + p.Image);
 
 
 
-                HttpResponseMessage response = new HttpResponseMessage(HttpStatusCode.OK);
-                response.Content = new StreamContent(new FileStream(localFilePath, FileMode.Open, FileAccess.Read));
-                response.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
+        //        HttpResponseMessage response = new HttpResponseMessage(HttpStatusCode.OK);
+        //        response.Content = new StreamContent(new FileStream(localFilePath, FileMode.Open, FileAccess.Read));
+        //        response.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
 
-                string contentDisposition = string.Concat("attachment; filename=", p.Image);
-                response.Content.Headers.ContentDisposition =
-                              ContentDispositionHeaderValue.Parse(contentDisposition);
-                response.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
-                response.Content.Headers.ContentDisposition.FileName = p.Image;
+        //        string contentDisposition = string.Concat("attachment; filename=", p.Image);
+        //        response.Content.Headers.ContentDisposition =
+        //                      ContentDispositionHeaderValue.Parse(contentDisposition);
+        //        response.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
+        //        response.Content.Headers.ContentDisposition.FileName = p.Image;
 
-                return response;
-            }
-            catch
-            {
-                HttpResponseMessage response = new HttpResponseMessage();
-                response.StatusCode = HttpStatusCode.InternalServerError;
-                return response;
-            }
-        }
+        //        return response;
+        //    }
+        //    catch
+        //    {
+        //        HttpResponseMessage response = new HttpResponseMessage();
+        //        response.StatusCode = HttpStatusCode.InternalServerError;
+        //        return response;
+        //    }
+        //}
 
 
         //[HttpPost]
@@ -180,9 +197,10 @@ namespace WebApi.Controllers
         //}
 
 
-        [HttpPost]
+        [HttpPut]
         //99898
         [Route("EditProduct")]
+       // [Authorize(Roles = "Admin")]
         public ProductViewModel EditProduct(int id, ProductViewModel productViewModel)
         {
 
@@ -202,8 +220,9 @@ namespace WebApi.Controllers
 
 
 
-        [HttpPost]
+        [HttpDelete]
         [Route("DeleteProduct")]
+        [Authorize(Roles = "Admin")]
         //[Authorize]
 
         public void Delete(int id)
@@ -212,7 +231,7 @@ namespace WebApi.Controllers
             //return Ok(); //can not refresh
         }
 
-
+     
     }
 
 }

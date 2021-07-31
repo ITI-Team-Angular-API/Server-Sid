@@ -18,7 +18,7 @@ namespace WebApi.Controllers
         // GET: Category
         [HttpGet]
         [Route("ShowAllCategories")]
-        public List<CategoryViewModel> Index()
+        public List<CategoryViewModel> Get()
         {
             List<CategoryViewModel> categoryViewModels = categoryAppService.GetAllCategories();
             return categoryViewModels;
@@ -34,7 +34,7 @@ namespace WebApi.Controllers
               return Ok(product);
           } */
         [HttpPost]
-        [Route("DeleteCategory")]
+         [Route("DeleteCategory")]
         //[Authorize]
 
         public void Delete(int id)
@@ -45,7 +45,7 @@ namespace WebApi.Controllers
         [HttpPost]
         [Route("CreateCategory")]
         //[Authorize]
-        public CategoryViewModel Create(CategoryViewModel categoryViewModel)
+        public CategoryViewModel Post(CategoryViewModel categoryViewModel)
         {
             //if (ModelState.IsValid == false)
             //    return View(categoryViewModel);
@@ -60,7 +60,7 @@ namespace WebApi.Controllers
            // return RedirectToAction("Index");
         }
         [HttpGet]
-        [Route("EditCategoryGet")]
+       [Route("EditCategoryGet")]
         public CategoryViewModel Edit(int id)
         {
             return categoryAppService.GetCategory(id);
@@ -69,7 +69,7 @@ namespace WebApi.Controllers
         [HttpPost]
         //99898
         [Route("EditCategory")]
-        public CategoryViewModel Edit(int id, CategoryViewModel categoryViewModel)
+        public CategoryViewModel Put(int id, CategoryViewModel categoryViewModel)
         {
            
 
